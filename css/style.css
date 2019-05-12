@@ -1,0 +1,54 @@
+canvas {
+  display: block;
+  vertical-align: bottom;
+}
+
+#particles-js {
+  width: 100%;
+  height: 100vh;
+  background-color: #000;
+  background-image: url("");
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#particles-js h2 {
+  font-family: 'Veredana';
+  position: absolute;
+  top: 390px;
+  font-size: 4rem;
+  color: #fff;
+  border-radius: 20px;
+  font-style: oblique;
+}
+
+#particles-js h3 {
+  font-family: 'Veredana';
+  position: absolute;
+  top: 470px;
+  font-size: 2rem;
+  color: #fff;
+  border-radius: 20px;
+  font-style: oblique;
+}
+
+img {
+  size: 100px;
+  width: 1250px;
+  height: 850px;
+  position: absolute;
+  border-radius: 0px;
+  margin: top;
+  bottom: 250px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin: top;
+}
